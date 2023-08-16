@@ -17,8 +17,8 @@ body {
     -webkit-font-smoothing: antialiased !important;
     -moz-osx-font-smoothing: grayscale !important;
     text-rendering: optimizeLegibility !important;
-    background: linear-gradient(90deg,#151618 15px,transparent 1%) 50%,
-    linear-gradient(#151618 15px, #3E4146 1%) 0%,
+    background: linear-gradient(90deg,#eae9e7 15px,transparent 1%) 50%,
+    linear-gradient(#eae9e7 15px, #c1beb9 1%) 0%,
     hsla(0,0%,100%,.16)!important;
     background-size: 16px 16px!important;
 }
